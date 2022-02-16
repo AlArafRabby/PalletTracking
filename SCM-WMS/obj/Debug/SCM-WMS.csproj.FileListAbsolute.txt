@@ -1,0 +1,138 @@
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.exe.config
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.exe
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.pdb
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csprojAssemblyReference.cache
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.Properties.Resources.resources
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csproj.GenerateResource.cache
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.exe
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.pdb
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.LoginPage.resources
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.ManePage.resources
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\Users\intern14.it\source\repos\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\NEW\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.exe.config
+C:\NEW\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.exe
+C:\NEW\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.pdb
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.LoginPage.resources
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.ManePage.resources
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.Properties.Resources.resources
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csproj.GenerateResource.cache
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.exe
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.pdb
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csprojAssemblyReference.cache
+C:\NEW\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\NEW - Copy\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.exe.config
+C:\NEW - Copy\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.exe
+C:\NEW - Copy\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.pdb
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csprojAssemblyReference.cache
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.ManePage.resources
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.Properties.Resources.resources
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csproj.GenerateResource.cache
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.exe
+C:\NEW - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.pdb
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.exe.config
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.exe
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\bin\Debug\SCM-WMS.pdb
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csprojAssemblyReference.cache
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.ManePage.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.Properties.Resources.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csproj.GenerateResource.cache
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.exe
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Debug\SCM-WMS.pdb
+D:\TFS2017\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe.config
+D:\TFS2017\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe.manifest
+D:\TFS2017\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.application
+D:\TFS2017\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe
+D:\TFS2017\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.pdb
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.ManePage.resources
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.Properties.Resources.resources
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csproj.GenerateResource.cache
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csproj.CoreCompileInputs.cache
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.exe.manifest
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.application
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.exe
+D:\TFS2017\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.pdb
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe.config
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe.manifest
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.application
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.pdb
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csprojAssemblyReference.cache
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.ManePage.resources
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.Properties.Resources.resources
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csproj.GenerateResource.cache
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.exe.manifest
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.application
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.exe
+C:\Users\intern13.it\Desktop\Publish\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.pdb
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe.config
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe.manifest
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.application
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.pdb
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csprojAssemblyReference.cache
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.ManePage.resources
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.Properties.Resources.resources
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csproj.GenerateResource.cache
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.exe.manifest
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.application
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.exe
+C:\Users\intern13.it\Desktop\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.pdb
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csprojAssemblyReference.cache
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.ManePage.resources
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.Properties.Resources.resources
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csproj.GenerateResource.cache
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csproj.CoreCompileInputs.cache
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.exe
+D:\AVL\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.pdb
+C:\tfs\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe.config
+C:\tfs\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe.manifest
+C:\tfs\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.application
+C:\tfs\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.exe
+C:\tfs\PalletTracking\SCM-WMS\bin\Debug\SCM-WMS.pdb
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.ManePage.resources
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.Properties.Resources.resources
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csproj.GenerateResource.cache
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.exe.manifest
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.application
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.exe
+C:\tfs\PalletTracking\SCM-WMS\obj\Debug\SCM-WMS.pdb

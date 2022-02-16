@@ -1,0 +1,82 @@
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.exe.config
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.exe
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.pdb
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csprojAssemblyReference.cache
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.ManePage.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.Properties.Resources.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csproj.GenerateResource.cache
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.exe
+C:\NEW - Copy - Copy\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.pdb
+C:\SOF\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.exe.config
+C:\SOF\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.exe
+C:\SOF\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.pdb
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.ManePage.resources
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.Properties.Resources.resources
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csproj.GenerateResource.cache
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.exe
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.pdb
+C:\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csprojAssemblyReference.cache
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.exe.config
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.exe
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.pdb
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.ManePage.resources
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.Properties.Resources.resources
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csproj.GenerateResource.cache
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.exe
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.pdb
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.exe.manifest
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.application
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.exe.manifest
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.application
+C:\Users\intern13.it\Desktop\SOF\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csprojAssemblyReference.cache
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.exe.config
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.exe.manifest
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.application
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.exe
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\bin\Release\SCM-WMS.pdb
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csprojAssemblyReference.cache
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.ManePage.resources
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.Properties.Resources.resources
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csproj.GenerateResource.cache
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.exe.manifest
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.application
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.exe
+C:\Users\intern13.it\Desktop\SCM-WMS\SCM-WMS\obj\Release\SCM-WMS.pdb
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\bin\Release\SCM-WMS.exe.config
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\bin\Release\SCM-WMS.exe.manifest
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\bin\Release\SCM-WMS.application
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\bin\Release\SCM-WMS.exe
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\bin\Release\SCM-WMS.pdb
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM_WMS.ManePage.resources
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM_WMS.Properties.Resources.resources
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletAssign_UC.resources
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletTransferIn_UC.resources
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletTransferOut.resources
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM_WMS.SurfaceItems.PalletUnload_UC.resources
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM-WMS.csproj.GenerateResource.cache
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM-WMS.csproj.CoreCompileInputs.cache
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM-WMS.exe.manifest
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM-WMS.application
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM-WMS.exe
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM-WMS.pdb
+C:\Users\intern13.it\Desktop\new pallet software\PalletTracking\SCM-WMS\obj\Release\SCM-WMS.csprojAssemblyReference.cache
